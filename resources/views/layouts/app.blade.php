@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Acme</title>
+    <title>My Learning Journey</title>
     <link rel="stylesheet" href="/css/app.css">
 </head>
 <body>
